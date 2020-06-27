@@ -6,6 +6,8 @@ imagen=cv2.imread('poeta_halley.jpg',0)   #El codigo será similar al anterior, 
 
 print("Hola soy una imagen en escala de grises")
 
+#Comentario hecho desde el server
+
 cv2.waitKey(0)                            
 
 cv2.destroyAllWindows()                   
